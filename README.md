@@ -42,7 +42,7 @@
 <!-- Llamado a la acción -->
 <h3 align="center">📫 ¿Trabajamos juntos?</h3>
 <p align="center">
-  <a href="mailto:tu_email@example.com">
+  <a href="mailto:oorod85@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/tu_perfil/">
